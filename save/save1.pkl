@@ -1,0 +1,126 @@
+(lp0
+VF:/Games/Sniper Ghost Warrior Contracts/gamesdk/levels/trainyard/level.pak
+p1
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/levels/trainyard/level_data.pak
+p2
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/levels/trainyard/trainyard.xml
+p3
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/levels/villa_mission/levelmm.pak
+p4
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/levels/villa_mission/terraintexture.pak
+p5
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/objects-part0.pak
+p6
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/scripts.pak
+p7
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/textures-part0.pak
+p8
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/textures-part2.pak
+p9
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/videos-part0.pak
+p10
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_fastload/audio.pak
+p11
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/glaciermap/cga.pak
+p12
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/glaciermap/chr.pak
+p13
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/glaciermap/skin.pak
+p14
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/harbor/cgf.pak
+p15
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/harbor/common.pak
+p16
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/shooting_range_tutorial/cga.pak
+p17
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/shooting_range_tutorial/chr.pak
+p18
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/shooting_range_tutorial/skin.pak
+p19
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/snowstorm_mission/cgf.pak
+p20
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/snowstorm_mission/common.pak
+p21
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/trainyard/cga.pak
+p22
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/trainyard/chr.pak
+p23
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/trainyard/skin.pak
+p24
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/villa_mission/cgf.pak
+p25
+aVF:/Games/Sniper Ghost Warrior Contracts/gamesdk/_levelcache/villa_mission/common.pak
+p26
+aVF:/Games/Sniper Ghost Warrior Contracts/Launch_Game.exe
+p27
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/chineset_xml.pak
+p28
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/english_xml.pak
+p29
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/german_xml.pak
+p30
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/italian_xml.pak
+p31
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/korean_xml.pak
+p32
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/polish_xml.pak
+p33
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/portuguese_xml.pak
+p34
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/russian_xml.pak
+p35
+aVF:/Games/Sniper Ghost Warrior Contracts/Localization/spanish_xml.pak
+p36
+aVF:/Games/Sniper Ghost Warrior Contracts/LogBackups/Game.log
+p37
+aVF:/Games/Sniper Ghost Warrior Contracts/system.cfg
+p38
+aVF:/Games/Sniper Ghost Warrior Contracts/unins000.dat
+p39
+aVF:/Games/Sniper Ghost Warrior Contracts/unins000.exe
+p40
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/aws-c-common.dll
+p41
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/aws-c-event-stream.dll
+p42
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/aws-checksums.dll
+p43
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/aws-cpp-sdk-core.dll
+p44
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/aws-cpp-sdk-gamelift.dll
+p45
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/concrt140.dll
+p46
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/CryAudioImplSDLMixer.dll
+p47
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/CryAudioImplWwise.dll
+p48
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/CryRenderD3D11.dll
+p49
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/d3dcompiler_47.dll
+p50
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/EasyAntiCheat_x64.dll
+p51
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/EasyAntiCheat_x86.dll
+p52
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/hlm.ini
+p53
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/libcurl.dll
+p54
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/msvcp140.dll
+p55
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/msvcp140_1.dll
+p56
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/msvcp140_2.dll
+p57
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/SDL2.dll
+p58
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/SGWContracts.exe
+p59
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/steam_api64.dll
+p60
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/steam_appid.txt
+p61
+aVF:/Games/Sniper Ghost Warrior Contracts/win_x64/vcruntime140.dll
+p62
+a.
